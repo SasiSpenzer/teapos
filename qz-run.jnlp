@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<jnlp href="qz-run.jnlp" spec="1.0+">
+	<information>
+		<title>QZ Print Plugin</title>
+		<vendor>QZ Industries, LLC</vendor>
+	</information>
+	<security>
+		<all-permissions/>
+	</security>
+	<resources>
+		<j2se version="1.5+" />
+		<jar href="qz-print.jar" download="eager" />
+		<jar href="lib/jssc_qz.jar" download="lazy" />
+		<jar href="lib/pdf-renderer_qz.jar" download="lazy" />
+	</resources>
+	<applet-desc name="QZ Print Plugin" main-class="qz.PrintApplet" width="1" height="1" />
+    <update check="background" policy="prompt-run" />
+</jnlp>

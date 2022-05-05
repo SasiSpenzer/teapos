@@ -1,0 +1,12 @@
+Things Done:
+1. Four side bars to scroll the shop front window LEFT,RIGHT,TOP and BOTTOM.
+2. Allinged images to right side
+3. Downlod and install the PIVOT software.
+4. Hide and show Button bar on shop front
+
+
+THINGS TO DO IN ORDER TO PROPERLY START THE SYSTEM
+1. First take the picture of all the item and edit through 'Paint'. Image size should be 640 x 860.
+2. Put them in the image folder (through the short cut on desktop).
+3. Then start the adding new item through Admin module.
+ 

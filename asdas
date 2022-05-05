@@ -1,0 +1,39 @@
+<div class="swiper-wrapper" style="padding-left: 423px; padding-right: 423px; width: 2538px; height: 600px; transition-duration: 0s; transform: translate3d(-423px, 0px, 0px);">
+    <div class="swiper-slide red-slide swiper-slide-visible" id="1" style="width: 423px; height: 600px;">
+        <div class="title">Slide 1</div>
+    </div>
+    <div class="swiper-slide blue-slide swiper-slide-visible swiper-slide-active" id="2" style="width: 423px; height: 600px;">
+        <div class="title">Slide 2</div>
+    </div>
+    <div class="swiper-slide orange-slide swiper-slide-visible" id="3" style="width: 423px; height: 600px;">
+        <div class="title">Slide 3</div>
+    </div>
+    <div class="swiper-slide blue-slide" id="4" style="width: 423px; height: 600px;">
+        <div class="title">Slide 4</div>
+    </div>
+    <div class="swiper-slide red-slide" id="5" style="width: 423px; height: 600px;">
+        <div class="title">Slide 5</div>
+    </div>
+    <div class="swiper-slide green-slide" id="6" style="width: 423px; height: 600px;">
+        <div class="title">Slide 6</div>
+    </div>
+</div>
+
+
+//        var IDs = [];
+//        var IDs = $("#slider_divs div[id]")         // find spans with ID attribute
+//            .map(function() { return this.id; }) // convert to set of IDs
+//            .get();
+//
+//        $("#slider_divs div").each(function(){
+//            this.removeClass("swiper-slide-visible swiper-slide-active");
+//        });
+
+//        var previous = "\'#"+current_id-1+"\'";
+//        var next = current_id+1;
+
+//        $('div[id="+current_id+"]').
+
+//alert(previous);
+
+//  scrollTo(current_id);
